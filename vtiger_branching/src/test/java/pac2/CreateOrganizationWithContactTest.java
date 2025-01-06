@@ -1,6 +1,9 @@
 package pac2;
 
-class CreateOrganizationWithContact {
+import org.testng.annotations.Test;
+
+class CreateOrganizationWithContactTest {
+	@Test
 	public void cotest() {
 		System.out.println("create CreateOrganizationWithContact test executed");
 	}
